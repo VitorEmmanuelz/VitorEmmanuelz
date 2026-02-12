@@ -15,8 +15,24 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=VitorEmmanuelz&theme=dark" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VitorEmmanuelz&theme=github_dark" />
+  <img src="https://streak-stats.demolab.com?user=VitorEmmanuelz&theme=github-dark&hide_border=true&ring=1f6feb&fire=1f6feb&currStreakLabel=1f6feb&sideLabels=ffffff&dates=9ca3af&stroke=1f6feb&background=0d1117" />
 </p>
+<p align="center">
+  <img src="https://ghchart.rshah.org/409ba5/VitorEmmanuelz" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
