@@ -16,7 +16,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VitorEmmanuelz&show_icons=true&theme=dark" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=VitorEmmanuelz&theme=dark" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=VitorEmmanuelz&theme=dark" width="48%"/>
 </p>
 
 
